@@ -1,6 +1,6 @@
 # Shaper - Cli
 
-1. R- Tree based collection to store and search geometric shapes
+Nodejs Cli App to store and search geometric shapes and points, spatial indexing using R- Tree
 
 ## Get started
 
