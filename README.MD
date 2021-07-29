@@ -5,6 +5,7 @@
 ## Get started
 
 - cd to directory
+- run command `npm install`
 - run command `npm run build`
 - run command `npm start`
 
