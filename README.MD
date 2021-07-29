@@ -84,4 +84,4 @@ insert shape from file
 
 ## Help
 - type 'help' to see more information about commands
-- type 'help <command> to see command specific information
+- type 'help <command>' to see command specific information
