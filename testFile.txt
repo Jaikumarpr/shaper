@@ -1,0 +1,2500 @@
+circle 4 3 6
+circle 15 10 19
+circle 13 4 8
+circle 17 4 19
+circle 6 17 11
+circle 17 7 15
+circle 2 11 9
+circle 2 15 6
+circle 17 13 5
+circle 17 9 14
+circle 3 9 17
+circle 16 13 5
+circle 8 7 5
+circle 8 6 8
+circle 2 18 19
+circle 3 7 8
+circle 18 3 20
+circle 14 14 3
+circle 3 17 3
+circle 5 7 8
+circle 8 9 4
+circle 0 4 16
+circle 12 3 19
+circle 2 5 1
+circle 9 18 16
+circle 12 3 8
+circle 17 2 10
+circle 11 16 18
+circle 0 18 3
+circle 17 16 5
+circle 5 0 14
+circle 2 18 19
+circle 15 13 16
+circle 13 4 1
+circle 7 18 17
+circle 15 1 1
+circle 18 15 12
+circle 4 3 2
+circle 6 16 8
+circle 16 16 18
+circle 0 7 14
+circle 2 3 18
+circle 6 3 12
+circle 19 11 19
+circle 9 3 4
+circle 14 4 3
+circle 8 10 12
+circle 17 9 6
+circle 17 12 6
+circle 4 8 11
+circle 9 8 19
+circle 9 9 7
+circle 19 14 16
+circle 13 15 12
+circle 1 2 15
+circle 10 6 7
+circle 2 11 11
+circle 19 9 16
+circle 19 10 15
+circle 0 1 6
+circle 3 2 20
+circle 19 12 13
+circle 12 17 13
+circle 2 18 6
+circle 0 4 14
+circle 19 0 17
+circle 13 6 16
+circle 14 17 12
+circle 8 7 8
+circle 8 8 17
+circle 5 7 20
+circle 0 18 14
+circle 1 15 5
+circle 8 11 2
+circle 19 13 2
+circle 16 3 16
+circle 3 14 10
+circle 6 7 3
+circle 1 6 8
+circle 16 2 16
+circle 8 15 6
+circle 14 11 20
+circle 0 9 14
+circle 11 17 3
+circle 12 4 3
+circle 6 16 2
+circle 12 8 1
+circle 7 1 7
+circle 7 14 18
+circle 10 13 18
+circle 10 3 5
+circle 19 4 8
+circle 17 10 11
+circle 15 4 12
+circle 2 19 8
+circle 15 12 3
+circle 13 18 15
+circle 8 7 1
+circle 17 0 10
+circle 9 5 15
+circle 15 19 4
+circle 1 10 15
+circle 16 8 16
+circle 4 7 1
+circle 15 13 4
+circle 10 9 18
+circle 16 9 4
+circle 17 10 3
+circle 13 18 14
+circle 6 14 7
+circle 4 10 13
+circle 17 18 14
+circle 5 5 4
+circle 9 18 5
+circle 4 14 15
+circle 16 12 11
+circle 19 4 12
+circle 15 9 18
+circle 4 0 4
+circle 18 19 6
+circle 15 6 4
+circle 4 6 3
+circle 9 17 9
+circle 17 10 13
+circle 15 2 6
+circle 2 4 4
+circle 4 17 17
+circle 11 15 14
+circle 7 1 16
+circle 1 11 16
+circle 19 10 17
+circle 10 4 20
+circle 4 15 7
+circle 9 4 20
+circle 11 8 10
+circle 0 10 8
+circle 3 9 16
+circle 0 17 10
+circle 16 3 8
+circle 12 10 2
+circle 11 10 3
+circle 15 16 13
+circle 3 18 9
+circle 6 15 6
+circle 7 8 14
+circle 0 1 11
+circle 19 0 19
+circle 6 18 6
+circle 13 13 16
+circle 6 19 2
+circle 12 8 7
+circle 1 12 9
+circle 13 18 13
+circle 16 9 14
+circle 5 1 6
+circle 8 0 18
+circle 9 16 19
+circle 19 17 11
+circle 16 1 13
+circle 16 2 5
+circle 4 7 7
+circle 17 7 13
+circle 8 9 3
+circle 15 8 5
+circle 1 18 18
+circle 1 5 8
+circle 7 8 1
+circle 4 11 11
+circle 11 17 13
+circle 12 7 9
+circle 0 10 18
+circle 6 6 18
+circle 9 7 3
+circle 11 7 13
+circle 13 17 15
+circle 0 2 20
+circle 14 4 16
+circle 9 7 3
+circle 9 16 16
+circle 2 6 13
+circle 2 1 8
+circle 5 16 14
+circle 7 2 10
+circle 18 1 1
+circle 10 10 15
+circle 3 1 10
+circle 6 5 11
+circle 17 3 7
+circle 4 14 1
+circle 6 8 9
+circle 0 17 18
+circle 8 19 4
+circle 5 18 1
+circle 9 7 1
+circle 13 17 4
+circle 3 18 10
+circle 14 18 14
+circle 5 3 7
+circle 9 10 10
+circle 9 6 2
+circle 5 14 7
+circle 3 4 5
+circle 6 1 14
+circle 18 16 17
+circle 1 16 12
+circle 17 7 12
+circle 5 10 3
+circle 11 12 12
+circle 12 11 8
+circle 19 17 8
+circle 4 16 7
+circle 19 18 8
+circle 15 10 13
+circle 2 13 15
+circle 4 16 9
+circle 3 4 15
+circle 10 13 10
+circle 5 13 5
+circle 15 11 9
+circle 5 0 3
+circle 2 15 6
+circle 1 12 14
+circle 15 10 19
+circle 11 5 18
+circle 19 0 3
+circle 15 10 7
+circle 13 14 10
+circle 13 10 16
+circle 0 11 10
+circle 10 3 20
+circle 15 13 13
+circle 15 3 16
+circle 5 10 18
+circle 1 2 15
+circle 12 14 18
+circle 4 4 9
+circle 10 7 19
+circle 6 7 10
+circle 7 3 6
+circle 7 17 7
+circle 10 1 18
+circle 8 10 13
+circle 0 4 3
+circle 8 18 10
+circle 3 12 3
+circle 5 6 7
+circle 14 0 20
+circle 13 16 10
+circle 13 18 7
+circle 3 19 6
+circle 16 18 6
+circle 14 2 17
+circle 18 14 14
+circle 15 3 9
+circle 19 0 10
+circle 7 17 11
+circle 7 2 7
+circle 2 14 13
+circle 10 11 13
+circle 1 7 19
+circle 0 1 14
+circle 13 9 4
+circle 7 8 4
+circle 2 9 12
+circle 7 19 17
+circle 6 11 1
+circle 14 7 18
+circle 6 13 9
+circle 16 14 13
+circle 7 6 8
+circle 19 10 13
+circle 3 2 2
+circle 0 12 18
+circle 6 12 3
+circle 18 11 10
+circle 19 6 3
+circle 17 18 20
+circle 0 13 14
+circle 11 1 16
+circle 17 16 4
+circle 1 3 15
+circle 19 1 20
+circle 14 8 5
+circle 3 7 15
+circle 2 11 6
+circle 3 6 18
+circle 7 5 15
+circle 12 1 4
+circle 13 6 2
+circle 4 1 20
+circle 3 5 2
+circle 13 3 8
+circle 0 8 9
+circle 15 5 5
+circle 19 14 10
+circle 13 13 20
+circle 13 1 14
+circle 6 9 20
+circle 3 12 17
+circle 2 1 19
+circle 14 11 6
+circle 18 9 13
+circle 17 1 3
+circle 13 5 18
+circle 18 16 14
+circle 14 6 4
+circle 8 15 2
+circle 16 7 1
+circle 18 10 5
+circle 14 2 4
+circle 13 14 11
+circle 1 3 20
+circle 0 16 4
+circle 9 16 12
+circle 8 13 18
+circle 8 2 20
+circle 16 11 20
+circle 8 10 12
+circle 2 18 19
+circle 1 11 13
+circle 9 10 15
+circle 5 3 2
+circle 18 4 13
+circle 11 18 9
+circle 10 2 7
+circle 4 4 2
+circle 2 3 18
+circle 13 7 15
+circle 2 16 5
+circle 9 9 16
+circle 11 5 13
+circle 8 15 11
+circle 6 17 12
+circle 17 14 7
+circle 11 13 3
+circle 15 6 1
+circle 16 12 18
+circle 10 18 6
+circle 19 12 7
+circle 5 0 11
+circle 5 8 13
+circle 10 15 10
+circle 18 17 1
+circle 11 9 17
+circle 11 17 8
+circle 9 12 3
+circle 11 19 2
+circle 16 7 5
+circle 12 13 16
+circle 17 10 14
+circle 6 15 16
+circle 11 13 16
+circle 0 1 8
+circle 8 10 5
+circle 12 18 19
+circle 1 18 19
+circle 13 6 15
+circle 13 9 19
+circle 5 16 11
+circle 12 15 14
+circle 1 16 8
+circle 5 10 16
+circle 17 11 2
+circle 13 2 8
+circle 10 0 14
+circle 8 6 7
+circle 7 7 16
+circle 2 8 10
+circle 5 2 7
+circle 18 14 20
+circle 15 0 4
+circle 13 9 5
+circle 6 1 9
+circle 7 10 6
+circle 17 9 5
+circle 4 13 14
+circle 3 10 1
+circle 4 13 7
+circle 12 1 19
+circle 5 10 8
+circle 6 15 14
+circle 16 7 20
+circle 15 10 7
+circle 13 15 14
+circle 15 6 19
+circle 6 1 19
+circle 5 10 19
+circle 2 5 17
+circle 9 13 13
+circle 9 7 12
+circle 2 4 6
+circle 12 9 20
+circle 6 14 4
+circle 4 12 2
+circle 16 7 16
+circle 5 8 17
+circle 18 10 9
+circle 10 11 5
+circle 6 7 4
+circle 2 6 8
+circle 11 8 13
+circle 6 19 5
+circle 6 3 2
+circle 19 3 13
+circle 1 1 1
+circle 3 12 13
+circle 0 19 1
+circle 5 14 10
+circle 12 4 12
+circle 19 10 19
+circle 15 9 8
+circle 13 16 12
+circle 13 12 10
+circle 14 1 2
+circle 15 5 2
+circle 19 17 5
+circle 9 13 3
+circle 0 16 9
+circle 10 7 15
+circle 18 4 20
+circle 17 18 17
+circle 19 2 12
+circle 13 15 8
+circle 6 11 9
+circle 4 15 5
+circle 14 4 14
+circle 17 4 17
+circle 12 1 13
+circle 9 6 12
+circle 8 18 20
+circle 6 12 10
+circle 17 8 4
+circle 4 6 12
+circle 12 2 16
+circle 10 13 16
+circle 12 18 6
+circle 16 11 8
+circle 12 4 20
+circle 9 0 6
+circle 15 2 13
+circle 7 17 17
+circle 1 1 3
+circle 9 17 2
+circle 13 5 2
+circle 2 0 6
+circle 13 6 2
+circle 13 9 16
+circle 2 10 13
+circle 0 3 11
+circle 19 16 13
+circle 18 1 11
+circle 1 4 9
+circle 1 14 1
+circle 18 2 9
+circle 16 11 6
+circle 19 11 4
+circle 4 5 9
+circle 6 12 6
+circle 19 14 14
+circle 0 15 6
+circle 10 3 3
+circle 9 7 7
+circle 18 8 11
+circle 9 8 4
+circle 18 3 7
+circle 0 16 14
+circle 12 7 6
+circle 0 4 9
+circle 6 15 2
+circle 18 16 8
+circle 14 15 12
+circle 4 8 9
+circle 7 13 6
+circle 14 0 19
+circle 16 12 7
+circle 11 9 6
+circle 15 18 11
+circle 19 11 17
+circle 6 3 16
+circle 17 4 2
+circle 0 4 6
+circle 12 10 13
+circle 11 8 20
+circle 14 3 2
+circle 14 5 14
+circle 18 16 8
+circle 5 19 17
+circle 11 7 8
+circle 9 10 17
+circle 19 0 19
+circle 7 7 1
+circle 8 17 7
+circle 13 13 8
+circle 15 17 20
+circle 0 13 1
+circle 17 13 17
+circle 16 7 20
+circle 15 6 11
+circle 12 17 1
+circle 15 19 9
+square 3 15 19
+square 3 12 20
+square 20 5 25
+square 11 15 16
+square 14 7 9
+square 20 23 15
+square 22 1 19
+square 23 15 2
+square 21 13 3
+square 8 6 12
+square 13 7 21
+square 11 9 12
+square 20 5 17
+square 6 18 3
+square 19 17 21
+square 12 20 24
+square 4 16 19
+square 24 23 4
+square 5 17 7
+square 8 17 15
+square 14 12 19
+square 20 14 23
+square 11 10 8
+square 12 20 24
+square 9 20 17
+square 22 1 9
+square 17 2 23
+square 8 11 19
+square 15 8 6
+square 19 8 25
+square 2 19 4
+square 5 2 10
+square 18 7 11
+square 16 4 22
+square 10 23 18
+square 19 22 7
+square 14 2 24
+square 1 18 18
+square 18 4 25
+square 1 19 12
+square 7 0 18
+square 12 3 9
+square 15 4 6
+square 14 16 7
+square 4 20 3
+square 2 3 14
+square 20 14 3
+square 18 18 5
+square 1 14 21
+square 20 9 23
+square 7 18 13
+square 16 9 13
+square 21 16 24
+square 23 23 3
+square 17 4 17
+square 20 1 18
+square 10 9 7
+square 24 10 19
+square 23 19 22
+square 0 24 8
+square 0 14 9
+square 12 6 10
+square 13 21 3
+square 12 24 14
+square 20 21 17
+square 3 8 5
+square 4 5 12
+square 15 1 13
+square 11 23 22
+square 6 22 25
+square 1 11 11
+square 17 17 22
+square 7 13 14
+square 20 11 22
+square 22 16 17
+square 2 15 6
+square 8 14 3
+square 15 22 20
+square 13 2 10
+square 23 3 11
+square 19 16 1
+square 24 4 4
+square 13 2 16
+square 4 3 16
+square 23 2 12
+square 3 24 19
+square 3 10 17
+square 9 24 5
+square 7 16 10
+square 12 2 25
+square 8 1 3
+square 24 8 10
+square 1 17 23
+square 17 5 2
+square 5 18 9
+square 13 3 15
+square 21 8 14
+square 4 11 20
+square 8 12 8
+square 21 5 10
+square 6 4 5
+square 13 0 5
+square 9 13 7
+square 9 15 14
+square 19 17 1
+square 2 16 17
+square 16 19 5
+square 19 12 5
+square 18 10 10
+square 4 9 5
+square 16 19 6
+square 10 17 6
+square 8 23 14
+square 5 9 4
+square 17 0 6
+square 6 9 18
+square 18 11 19
+square 8 12 18
+square 0 24 23
+square 22 5 22
+square 14 13 2
+square 23 20 9
+square 9 1 8
+square 17 16 12
+square 11 3 1
+square 0 20 7
+square 3 18 14
+square 11 23 16
+square 14 0 20
+square 0 9 4
+square 3 7 13
+square 10 23 18
+square 11 2 7
+square 9 21 21
+square 14 6 10
+square 17 13 13
+square 5 23 17
+square 12 2 3
+square 10 0 16
+square 7 9 5
+square 12 12 10
+square 0 18 8
+square 24 12 21
+square 7 5 13
+square 15 12 9
+square 9 15 2
+square 8 5 15
+square 20 16 11
+square 21 22 20
+square 18 3 14
+square 12 1 7
+square 3 24 14
+square 8 0 12
+square 1 1 23
+square 19 7 22
+square 13 2 6
+square 15 6 24
+square 12 16 25
+square 14 3 12
+square 0 13 4
+square 8 9 12
+square 10 12 10
+square 9 21 9
+square 13 21 7
+square 12 0 6
+square 16 7 21
+square 14 1 23
+square 14 5 16
+square 14 6 24
+square 10 16 10
+square 17 9 19
+square 11 12 11
+square 10 8 22
+square 13 14 12
+square 5 14 14
+square 11 18 25
+square 9 11 25
+square 11 0 4
+square 5 17 10
+square 0 23 10
+square 9 19 12
+square 14 19 2
+square 15 0 10
+square 4 13 13
+square 15 13 21
+square 14 6 15
+square 13 13 10
+square 21 3 13
+square 5 20 25
+square 9 18 4
+square 23 18 7
+square 7 2 5
+square 7 19 12
+square 17 11 11
+square 14 2 25
+square 23 23 17
+square 15 5 11
+square 14 18 20
+square 13 6 5
+square 7 20 19
+square 23 4 11
+square 23 1 7
+square 9 23 23
+square 19 14 1
+square 14 0 5
+square 9 20 23
+square 13 11 11
+square 0 24 8
+square 23 19 11
+square 14 4 23
+square 6 10 6
+square 0 4 10
+square 23 9 1
+square 0 6 19
+square 10 22 23
+square 18 5 24
+square 2 5 5
+square 1 4 21
+square 19 10 7
+square 22 8 7
+square 11 24 16
+square 0 8 7
+square 1 17 1
+square 23 4 18
+square 7 23 21
+square 11 4 5
+square 18 23 12
+square 23 18 7
+square 0 23 5
+square 12 0 19
+square 11 7 3
+square 9 7 11
+square 5 10 17
+square 15 15 1
+square 1 2 4
+square 23 3 18
+square 2 5 21
+square 0 6 5
+square 17 1 21
+square 14 23 15
+square 18 12 21
+square 18 8 3
+square 11 0 6
+square 14 17 19
+square 12 3 8
+square 24 11 11
+square 4 24 21
+square 20 14 7
+square 10 1 24
+square 21 0 1
+square 21 12 6
+square 22 9 5
+square 16 9 9
+square 4 14 20
+square 3 13 3
+square 15 2 14
+square 10 7 11
+square 9 15 11
+square 5 13 3
+square 11 16 3
+square 8 13 22
+square 12 22 17
+square 15 0 19
+square 12 3 12
+square 8 6 1
+square 0 16 10
+square 18 8 17
+square 20 14 21
+square 18 17 24
+square 7 5 13
+square 4 5 17
+square 3 23 14
+square 23 23 7
+square 22 2 15
+square 18 13 4
+square 18 20 5
+square 10 22 6
+square 12 7 2
+square 3 13 8
+square 17 0 12
+square 14 9 16
+square 14 11 24
+square 8 20 19
+square 4 10 13
+square 16 23 17
+square 10 10 21
+square 15 20 8
+square 9 24 4
+square 6 24 17
+square 22 15 13
+square 10 6 15
+square 9 10 11
+square 22 7 24
+square 13 16 25
+square 5 23 25
+square 21 24 6
+square 0 18 12
+square 17 21 8
+square 5 9 15
+square 14 9 6
+square 15 1 5
+square 6 7 24
+square 12 5 25
+square 11 1 7
+square 10 16 13
+square 17 18 9
+square 15 1 16
+square 18 5 23
+square 0 0 7
+square 14 9 17
+square 14 7 6
+square 15 5 23
+square 22 14 10
+square 21 24 10
+square 11 15 19
+square 7 9 7
+square 16 9 18
+square 16 17 23
+square 5 18 16
+square 6 5 17
+square 14 4 20
+square 10 17 17
+square 15 15 15
+square 12 11 20
+square 18 0 13
+square 5 4 14
+square 0 24 5
+square 22 14 20
+square 13 3 3
+square 13 9 17
+square 4 15 18
+square 18 12 8
+square 2 4 25
+square 22 10 17
+square 3 22 14
+square 16 15 20
+square 11 13 7
+square 19 16 21
+square 19 0 24
+square 14 24 3
+square 7 17 23
+square 12 17 18
+square 8 12 2
+square 7 4 14
+square 2 9 8
+square 18 22 16
+square 8 17 18
+square 21 23 18
+square 11 19 20
+square 3 17 11
+square 19 2 12
+square 1 14 9
+square 6 5 11
+square 1 20 15
+square 17 4 13
+square 1 14 9
+square 15 17 9
+square 12 5 3
+square 8 19 23
+square 22 17 2
+square 4 15 24
+square 13 11 9
+square 23 23 20
+square 9 6 13
+square 24 4 10
+square 20 2 14
+square 14 19 24
+square 5 14 21
+square 24 19 2
+square 0 3 1
+square 1 1 5
+square 17 17 3
+square 16 8 4
+square 20 12 25
+square 3 6 21
+square 13 9 7
+square 20 6 22
+square 3 8 14
+square 18 0 9
+square 13 20 14
+square 0 12 14
+square 3 13 14
+square 12 15 24
+square 22 7 24
+square 4 5 13
+square 1 8 8
+square 0 12 23
+square 16 5 7
+square 17 1 21
+square 19 7 9
+square 19 21 13
+square 10 4 21
+square 3 19 11
+square 20 23 4
+square 21 0 18
+square 7 14 6
+square 7 23 3
+square 9 6 3
+square 2 13 7
+square 11 15 8
+square 11 4 9
+square 18 22 14
+square 12 18 12
+square 0 12 2
+square 22 6 13
+square 19 0 19
+square 11 4 7
+square 6 0 25
+square 9 0 22
+square 11 14 12
+square 5 8 7
+square 23 19 15
+square 15 20 9
+square 9 19 10
+square 8 11 3
+square 20 18 4
+square 20 12 8
+square 0 15 23
+square 0 16 6
+square 5 17 6
+square 15 3 20
+square 8 1 12
+square 22 5 3
+square 24 14 1
+square 24 19 15
+square 15 3 21
+square 8 12 11
+square 24 16 25
+square 14 21 25
+square 16 18 17
+square 1 5 3
+square 0 19 12
+square 16 11 2
+square 15 15 7
+square 6 7 11
+square 11 6 9
+square 11 23 20
+square 20 17 2
+square 7 0 21
+square 22 4 8
+square 16 1 20
+square 15 2 7
+square 9 8 7
+square 1 9 8
+square 10 23 6
+square 19 1 22
+square 3 12 7
+square 0 4 13
+square 14 13 11
+square 3 12 5
+square 11 18 7
+square 8 1 7
+square 13 1 6
+square 1 8 18
+square 0 18 8
+square 8 2 14
+square 12 20 24
+square 16 4 9
+square 11 23 18
+square 10 6 1
+square 21 23 5
+square 12 17 5
+square 4 1 10
+square 8 7 8
+square 7 2 20
+square 20 8 17
+square 2 9 14
+square 2 23 21
+square 14 2 8
+square 17 24 24
+square 3 17 4
+square 5 17 21
+square 6 23 13
+square 15 22 20
+square 18 10 18
+square 24 15 12
+square 13 11 22
+square 7 20 19
+square 4 0 2
+square 1 3 2
+square 23 6 9
+square 24 4 22
+square 8 5 21
+square 11 12 19
+square 8 17 12
+square 24 20 19
+square 0 7 14
+square 19 13 1
+square 19 12 8
+square 3 3 15
+square 2 5 1
+square 21 12 12
+square 10 0 9
+square 19 5 17
+square 24 14 5
+square 15 12 8
+square 22 6 1
+square 0 14 13
+square 7 22 22
+square 2 3 22
+rectangle 11 17 25 1
+rectangle 19 21 2 22
+rectangle 12 0 11 5
+rectangle 12 14 15 8
+rectangle 24 1 11 21
+rectangle 9 1 10 23
+rectangle 21 15 2 18
+rectangle 19 22 15 7
+rectangle 2 19 4 8
+rectangle 7 18 1 22
+rectangle 19 16 12 2
+rectangle 3 19 10 19
+rectangle 20 18 10 21
+rectangle 20 4 7 6
+rectangle 8 4 19 16
+rectangle 19 8 24 1
+rectangle 5 23 2 4
+rectangle 21 22 20 22
+rectangle 2 21 6 6
+rectangle 24 7 18 5
+rectangle 6 24 13 9
+rectangle 4 6 23 18
+rectangle 12 7 23 18
+rectangle 13 21 22 18
+rectangle 15 13 3 17
+rectangle 3 17 19 10
+rectangle 11 5 18 2
+rectangle 8 23 18 23
+rectangle 1 3 16 23
+rectangle 7 6 22 16
+rectangle 15 16 21 20
+rectangle 24 9 15 16
+rectangle 23 10 14 15
+rectangle 12 9 4 13
+rectangle 6 10 15 22
+rectangle 3 5 11 12
+rectangle 0 15 19 18
+rectangle 12 7 23 7
+rectangle 16 17 8 8
+rectangle 3 8 18 22
+rectangle 22 1 10 13
+rectangle 8 3 22 24
+rectangle 0 13 16 5
+rectangle 23 12 14 12
+rectangle 23 22 12 8
+rectangle 2 3 22 3
+rectangle 15 17 2 24
+rectangle 2 12 22 2
+rectangle 17 19 7 21
+rectangle 12 8 15 23
+rectangle 11 12 10 13
+rectangle 24 20 2 15
+rectangle 1 4 24 19
+rectangle 8 23 6 21
+rectangle 5 23 19 21
+rectangle 0 19 13 23
+rectangle 21 2 20 13
+rectangle 20 2 21 5
+rectangle 6 3 25 16
+rectangle 0 10 13 11
+rectangle 16 18 22 17
+rectangle 4 24 8 16
+rectangle 11 17 15 9
+rectangle 3 17 10 15
+rectangle 7 4 22 17
+rectangle 18 14 24 16
+rectangle 0 3 5 15
+rectangle 17 6 4 3
+rectangle 18 19 21 20
+rectangle 22 13 12 15
+rectangle 2 13 21 11
+rectangle 17 11 6 10
+rectangle 19 3 10 16
+rectangle 23 19 24 4
+rectangle 17 9 16 9
+rectangle 15 19 12 14
+rectangle 4 19 24 8
+rectangle 23 22 3 2
+rectangle 22 24 9 6
+rectangle 10 2 9 1
+rectangle 0 2 12 14
+rectangle 19 17 25 8
+rectangle 19 13 10 2
+rectangle 5 24 12 18
+rectangle 0 5 1 5
+rectangle 19 2 15 1
+rectangle 5 18 19 6
+rectangle 8 0 9 14
+rectangle 18 7 19 19
+rectangle 6 16 5 14
+rectangle 21 14 17 7
+rectangle 15 10 7 19
+rectangle 20 16 14 22
+rectangle 3 12 20 15
+rectangle 4 9 24 5
+rectangle 9 19 25 24
+rectangle 17 10 17 1
+rectangle 8 15 21 4
+rectangle 1 17 11 1
+rectangle 11 19 16 8
+rectangle 19 20 17 8
+rectangle 12 10 8 11
+rectangle 16 6 13 19
+rectangle 12 2 1 17
+rectangle 9 0 23 14
+rectangle 9 15 14 9
+rectangle 7 4 16 7
+rectangle 21 4 5 2
+rectangle 9 23 22 17
+rectangle 1 1 23 23
+rectangle 7 18 2 2
+rectangle 16 23 13 18
+rectangle 1 14 14 20
+rectangle 24 7 9 10
+rectangle 13 8 14 12
+rectangle 3 24 4 16
+rectangle 5 0 20 8
+rectangle 3 18 9 8
+rectangle 1 22 15 10
+rectangle 7 8 5 6
+rectangle 23 17 17 24
+rectangle 0 7 20 24
+rectangle 9 6 18 4
+rectangle 12 14 2 12
+rectangle 4 17 10 4
+rectangle 3 16 9 23
+rectangle 22 10 23 11
+rectangle 19 0 4 9
+rectangle 4 10 23 23
+rectangle 24 15 25 1
+rectangle 14 24 8 7
+rectangle 8 23 8 24
+rectangle 4 10 11 15
+rectangle 10 19 6 5
+rectangle 21 24 17 17
+rectangle 20 18 15 11
+rectangle 7 20 14 10
+rectangle 13 4 25 15
+rectangle 12 18 22 18
+rectangle 7 12 8 24
+rectangle 8 14 18 21
+rectangle 10 7 8 14
+rectangle 0 5 7 15
+rectangle 4 9 18 13
+rectangle 7 3 20 15
+rectangle 7 8 24 23
+rectangle 8 17 2 20
+rectangle 7 6 5 1
+rectangle 4 21 2 13
+rectangle 6 24 7 9
+rectangle 2 11 12 4
+rectangle 10 24 15 25
+rectangle 7 16 10 20
+rectangle 24 3 21 24
+rectangle 10 22 18 4
+rectangle 2 3 16 9
+rectangle 15 22 19 1
+rectangle 14 1 11 8
+rectangle 1 24 12 5
+rectangle 18 1 13 11
+rectangle 16 19 21 21
+rectangle 16 9 23 3
+rectangle 0 8 9 6
+rectangle 19 17 22 17
+rectangle 7 18 6 10
+rectangle 20 18 14 22
+rectangle 2 15 16 14
+rectangle 2 10 21 8
+rectangle 1 4 22 14
+rectangle 9 16 2 22
+rectangle 9 7 3 21
+rectangle 21 17 21 16
+rectangle 2 6 3 15
+rectangle 12 4 10 1
+rectangle 2 21 16 2
+rectangle 6 4 4 17
+rectangle 19 10 25 15
+rectangle 18 22 18 24
+rectangle 8 21 20 18
+rectangle 13 22 3 12
+rectangle 0 12 2 1
+rectangle 23 21 20 24
+rectangle 2 0 3 23
+rectangle 22 1 5 18
+rectangle 9 24 19 18
+rectangle 21 14 24 24
+rectangle 18 3 24 14
+rectangle 11 12 15 14
+rectangle 11 1 4 17
+rectangle 15 17 24 16
+rectangle 24 11 18 4
+rectangle 2 22 9 24
+rectangle 4 13 10 4
+rectangle 23 6 8 15
+rectangle 13 0 3 3
+rectangle 15 18 6 13
+rectangle 23 15 4 22
+rectangle 20 15 22 5
+rectangle 17 8 14 7
+rectangle 10 13 14 19
+rectangle 10 5 10 4
+rectangle 16 12 6 12
+rectangle 19 23 18 14
+rectangle 13 17 1 4
+rectangle 8 0 8 17
+rectangle 9 13 1 24
+rectangle 18 6 17 24
+rectangle 4 9 6 20
+rectangle 17 15 5 7
+rectangle 7 1 25 9
+rectangle 2 4 25 9
+rectangle 5 24 23 5
+rectangle 9 18 2 16
+rectangle 20 1 23 10
+rectangle 14 4 6 21
+rectangle 5 15 19 23
+rectangle 4 21 8 21
+rectangle 5 0 13 18
+rectangle 5 12 24 16
+rectangle 0 20 23 18
+rectangle 2 10 7 12
+rectangle 3 16 8 7
+rectangle 24 9 24 17
+rectangle 24 15 8 3
+rectangle 23 12 22 25
+rectangle 17 4 10 18
+rectangle 5 2 17 9
+rectangle 14 7 9 21
+rectangle 23 9 16 1
+rectangle 20 4 14 9
+rectangle 8 16 6 22
+rectangle 4 19 14 24
+rectangle 15 2 18 17
+rectangle 17 21 19 17
+rectangle 11 17 18 7
+rectangle 13 24 16 4
+rectangle 14 2 21 3
+rectangle 6 18 17 20
+rectangle 11 13 11 14
+rectangle 20 3 2 24
+rectangle 9 15 19 15
+rectangle 0 10 7 12
+rectangle 24 23 17 6
+rectangle 10 11 5 11
+rectangle 4 3 22 15
+rectangle 17 24 21 14
+rectangle 17 20 22 5
+rectangle 9 21 13 8
+rectangle 7 3 17 14
+rectangle 16 7 18 21
+rectangle 17 24 8 23
+rectangle 1 5 15 19
+rectangle 10 13 24 9
+rectangle 12 19 8 18
+rectangle 11 9 24 17
+rectangle 24 12 25 24
+rectangle 19 20 17 24
+rectangle 15 3 13 11
+rectangle 4 17 7 6
+rectangle 11 18 17 21
+rectangle 14 9 19 18
+rectangle 11 16 19 2
+rectangle 15 5 8 4
+rectangle 24 20 23 6
+rectangle 2 7 18 24
+rectangle 7 20 24 10
+rectangle 19 15 4 4
+rectangle 10 17 4 22
+rectangle 0 2 25 8
+rectangle 7 15 2 22
+rectangle 12 8 1 19
+rectangle 18 2 25 22
+rectangle 17 7 10 7
+rectangle 4 10 1 17
+rectangle 23 16 13 21
+rectangle 22 16 18 3
+rectangle 3 4 17 3
+rectangle 21 16 22 24
+rectangle 1 2 23 14
+rectangle 24 23 21 23
+rectangle 14 11 23 12
+rectangle 11 14 12 10
+rectangle 5 13 21 5
+rectangle 8 18 4 23
+rectangle 11 11 24 9
+rectangle 10 13 22 15
+rectangle 18 12 18 22
+rectangle 6 3 2 6
+rectangle 20 20 5 14
+rectangle 17 0 9 22
+rectangle 19 8 12 20
+rectangle 16 1 10 20
+rectangle 16 19 24 2
+rectangle 14 13 2 9
+rectangle 14 15 24 6
+rectangle 21 1 20 17
+rectangle 22 8 22 9
+rectangle 1 21 18 17
+rectangle 24 7 6 9
+rectangle 1 4 25 7
+rectangle 0 20 9 12
+rectangle 16 1 16 9
+rectangle 17 20 7 23
+rectangle 5 17 22 21
+rectangle 0 18 19 18
+rectangle 11 18 18 13
+rectangle 19 14 5 12
+rectangle 17 1 16 15
+rectangle 21 13 19 4
+rectangle 11 16 3 14
+rectangle 24 16 20 1
+rectangle 8 5 15 5
+rectangle 0 16 23 14
+rectangle 15 3 5 8
+rectangle 6 17 9 16
+rectangle 1 21 20 6
+rectangle 6 8 23 17
+rectangle 19 18 9 2
+rectangle 14 2 2 1
+rectangle 1 13 16 2
+rectangle 3 2 15 20
+rectangle 10 15 22 18
+rectangle 6 1 21 5
+rectangle 6 11 12 9
+rectangle 16 16 8 24
+rectangle 2 20 11 15
+rectangle 2 12 13 23
+rectangle 4 7 2 20
+rectangle 7 18 18 9
+rectangle 23 0 15 20
+rectangle 18 24 7 20
+rectangle 8 4 15 12
+rectangle 1 16 4 22
+rectangle 22 17 25 5
+rectangle 11 21 1 20
+rectangle 6 2 25 10
+rectangle 14 18 10 25
+rectangle 13 9 21 1
+rectangle 14 19 9 10
+rectangle 18 6 1 4
+rectangle 9 22 15 10
+rectangle 8 2 7 23
+rectangle 22 1 18 5
+rectangle 21 15 19 17
+rectangle 15 18 20 4
+rectangle 3 6 4 7
+rectangle 14 21 22 1
+rectangle 10 22 21 11
+rectangle 0 21 19 19
+rectangle 15 22 3 8
+rectangle 3 0 22 24
+rectangle 22 5 16 2
+rectangle 21 13 13 5
+rectangle 24 1 15 17
+rectangle 19 13 21 23
+rectangle 23 1 18 14
+rectangle 16 13 10 24
+rectangle 4 21 15 20
+rectangle 24 13 23 10
+rectangle 22 17 7 5
+rectangle 20 1 9 25
+rectangle 22 20 10 2
+rectangle 4 16 6 25
+rectangle 6 19 24 13
+rectangle 13 5 4 17
+rectangle 16 1 10 22
+rectangle 14 10 12 8
+rectangle 6 11 21 2
+rectangle 22 13 22 18
+rectangle 3 21 3 15
+rectangle 19 10 23 3
+rectangle 24 2 14 24
+rectangle 13 4 10 7
+rectangle 9 1 13 15
+rectangle 2 2 13 19
+rectangle 12 20 21 18
+rectangle 8 18 9 19
+rectangle 16 7 11 11
+rectangle 3 20 21 2
+rectangle 23 18 22 10
+rectangle 12 6 8 13
+rectangle 8 16 13 11
+rectangle 13 9 12 17
+rectangle 17 24 17 8
+rectangle 18 6 19 14
+rectangle 6 24 10 16
+rectangle 22 15 7 7
+rectangle 15 21 12 14
+rectangle 20 12 18 3
+rectangle 21 10 18 5
+rectangle 19 20 10 11
+rectangle 4 12 24 21
+rectangle 17 10 21 15
+rectangle 6 9 24 16
+rectangle 3 6 16 16
+rectangle 10 24 19 9
+rectangle 23 4 3 17
+rectangle 3 12 18 1
+rectangle 17 6 19 1
+rectangle 5 6 19 11
+rectangle 1 20 13 1
+rectangle 5 22 9 1
+rectangle 23 0 12 22
+rectangle 12 24 6 20
+rectangle 5 12 2 14
+rectangle 17 8 22 19
+rectangle 0 2 16 13
+rectangle 14 10 25 16
+rectangle 9 14 25 15
+rectangle 11 17 4 12
+rectangle 11 14 19 2
+rectangle 3 21 15 9
+rectangle 0 24 5 14
+rectangle 13 12 18 13
+rectangle 10 18 6 2
+rectangle 21 9 21 6
+rectangle 9 23 8 2
+rectangle 18 21 15 5
+rectangle 9 19 10 23
+rectangle 15 10 15 2
+rectangle 24 8 10 25
+rectangle 5 19 6 16
+rectangle 2 23 19 15
+rectangle 12 20 17 7
+rectangle 7 18 16 5
+rectangle 18 0 20 9
+rectangle 1 0 19 20
+rectangle 11 10 25 22
+rectangle 3 1 10 17
+rectangle 23 9 16 13
+rectangle 23 3 6 8
+rectangle 8 6 10 1
+rectangle 7 13 24 19
+rectangle 11 24 20 9
+rectangle 13 23 25 5
+rectangle 6 23 6 15
+rectangle 10 5 18 2
+rectangle 0 23 23 4
+rectangle 14 17 7 10
+rectangle 1 18 9 25
+rectangle 13 5 6 12
+rectangle 16 5 8 23
+rectangle 24 8 10 1
+rectangle 20 12 25 20
+rectangle 6 8 7 24
+rectangle 1 12 17 3
+rectangle 24 9 7 20
+rectangle 19 16 18 13
+rectangle 15 7 18 4
+rectangle 22 18 21 21
+rectangle 8 5 15 18
+rectangle 11 7 1 7
+rectangle 5 3 15 16
+rectangle 7 12 12 8
+rectangle 20 20 9 5
+rectangle 17 24 23 22
+rectangle 11 16 2 23
+rectangle 0 1 7 21
+rectangle 14 9 24 19
+rectangle 19 23 18 16
+rectangle 6 4 25 8
+rectangle 22 18 4 1
+rectangle 1 16 21 4
+rectangle 14 19 17 2
+rectangle 1 17 12 19
+rectangle 11 2 11 24
+rectangle 11 1 14 24
+rectangle 4 8 15 10
+rectangle 8 13 25 2
+rectangle 12 9 23 1
+rectangle 13 6 2 13
+rectangle 14 1 8 8
+rectangle 1 11 1 8
+rectangle 6 10 22 20
+rectangle 23 3 16 10
+rectangle 13 22 11 11
+rectangle 16 19 15 14
+rectangle 21 10 18 8
+rectangle 7 1 12 17
+rectangle 9 4 17 15
+rectangle 5 19 8 25
+rectangle 5 8 21 23
+rectangle 4 2 18 22
+rectangle 21 16 24 20
+rectangle 23 7 24 18
+rectangle 21 3 1 3
+rectangle 6 23 1 6
+rectangle 10 0 19 10
+rectangle 5 18 21 8
+rectangle 6 4 5 5
+rectangle 21 22 21 23
+rectangle 1 12 5 16
+rectangle 23 20 5 9
+rectangle 2 12 14 3
+rectangle 6 10 18 7
+rectangle 21 12 3 4
+rectangle 0 23 14 1
+rectangle 23 15 11 5
+rectangle 6 16 3 2
+rectangle 11 22 17 15
+triangle 13 5 11 8 5 1
+triangle 12 12 6 2 8 13
+triangle 1 0 12 3 1 4
+triangle 1 11 13 10 10 13
+triangle 8 14 5 7 13 3
+triangle 14 5 9 14 10 5
+triangle 0 4 9 9 2 14
+triangle 2 4 9 1 10 2
+triangle 3 8 12 3 12 11
+triangle 9 11 1 11 13 1
+triangle 2 13 9 7 11 0
+triangle 5 6 9 11 6 1
+triangle 7 8 3 10 8 8
+triangle 14 3 11 1 11 0
+triangle 4 7 7 0 12 10
+triangle 2 6 4 13 14 8
+triangle 10 13 2 2 14 6
+triangle 13 3 4 12 7 9
+triangle 9 1 14 0 5 4
+triangle 9 14 0 14 13 3
+triangle 9 6 9 12 4 6
+triangle 14 12 6 2 2 8
+triangle 14 8 2 13 10 9
+triangle 11 4 4 6 11 13
+triangle 12 12 0 2 12 11
+triangle 9 7 5 14 3 1
+triangle 1 10 13 11 5 11
+triangle 7 10 4 6 13 8
+triangle 6 14 11 10 4 6
+triangle 13 10 2 9 3 4
+triangle 12 13 11 9 0 0
+triangle 10 7 10 7 2 0
+triangle 0 5 5 6 14 4
+triangle 1 1 7 14 10 11
+triangle 13 13 11 10 11 5
+triangle 5 10 13 10 10 0
+triangle 1 14 13 12 11 13
+triangle 12 11 11 7 1 11
+triangle 11 10 8 7 8 11
+triangle 14 11 12 12 4 5
+triangle 13 13 9 1 10 2
+triangle 4 7 5 7 0 7
+triangle 2 3 14 10 11 0
+triangle 5 11 0 5 0 5
+triangle 4 3 4 12 7 11
+triangle 10 9 5 2 2 9
+triangle 12 5 7 10 3 4
+triangle 8 7 13 2 14 5
+triangle 13 4 8 7 4 6
+triangle 11 3 9 9 0 7
+triangle 14 14 7 6 7 12
+triangle 8 1 10 12 11 14
+triangle 10 3 5 0 13 6
+triangle 12 13 8 14 3 2
+triangle 0 8 10 1 8 10
+triangle 6 12 8 13 14 6
+triangle 1 7 14 4 10 0
+triangle 0 14 4 12 4 9
+triangle 2 11 9 5 1 2
+triangle 12 13 4 0 2 10
+triangle 10 14 9 2 6 0
+triangle 11 6 10 1 0 7
+triangle 0 1 13 12 9 5
+triangle 14 13 4 6 12 5
+triangle 8 12 2 10 8 11
+triangle 14 3 7 10 13 0
+triangle 14 7 0 0 10 14
+triangle 14 10 6 8 3 4
+triangle 7 13 11 10 7 9
+triangle 2 6 2 14 9 6
+triangle 14 8 2 11 7 0
+triangle 14 11 13 14 9 10
+triangle 2 4 6 6 5 10
+triangle 4 5 12 2 7 4
+triangle 3 5 9 6 7 5
+triangle 1 6 7 6 1 2
+triangle 4 13 2 0 1 13
+triangle 7 7 12 9 11 8
+triangle 8 10 0 12 12 2
+triangle 10 10 14 2 11 5
+triangle 11 11 2 9 3 10
+triangle 4 3 11 9 12 7
+triangle 11 10 8 14 13 8
+triangle 8 10 11 2 2 0
+triangle 0 8 14 14 5 9
+triangle 4 2 11 10 1 5
+triangle 14 8 12 5 0 2
+triangle 9 11 13 7 6 12
+triangle 8 9 5 11 11 12
+triangle 1 10 14 0 5 3
+triangle 10 0 11 4 12 0
+triangle 2 14 2 2 1 7
+triangle 10 8 4 7 0 10
+triangle 10 5 9 8 14 3
+triangle 8 0 2 12 6 8
+triangle 0 3 0 4 6 3
+triangle 12 3 11 6 0 11
+triangle 9 14 13 6 13 13
+triangle 3 6 4 13 14 5
+triangle 0 11 7 12 4 5
+triangle 8 10 7 14 4 10
+triangle 14 11 1 10 12 4
+triangle 2 9 13 8 3 12
+triangle 13 2 2 1 3 9
+triangle 14 12 2 10 3 13
+triangle 5 13 3 1 8 1
+triangle 8 12 3 10 11 0
+triangle 13 2 14 0 2 9
+triangle 9 11 10 13 1 4
+triangle 8 1 12 8 11 10
+triangle 13 14 13 14 12 2
+triangle 13 4 0 10 3 5
+triangle 14 10 12 12 11 1
+triangle 8 1 11 13 7 1
+triangle 8 8 6 8 7 1
+triangle 8 4 7 9 11 14
+triangle 14 1 4 11 12 0
+triangle 9 10 14 1 13 5
+triangle 13 3 2 7 12 7
+triangle 5 6 5 0 3 11
+triangle 10 2 6 10 8 2
+triangle 6 2 2 8 6 8
+triangle 4 13 10 11 1 6
+triangle 13 9 6 7 2 4
+triangle 1 0 6 11 2 10
+triangle 3 10 2 2 13 7
+triangle 13 11 4 6 10 7
+triangle 10 13 5 13 9 4
+triangle 11 2 7 6 6 11
+triangle 4 13 1 1 6 1
+triangle 0 2 11 14 4 0
+triangle 6 7 9 3 6 4
+triangle 1 13 12 8 0 1
+triangle 2 10 1 0 11 3
+triangle 4 10 14 0 2 12
+triangle 2 4 12 11 1 1
+triangle 14 7 0 2 9 8
+triangle 11 14 10 10 3 13
+triangle 5 12 2 8 0 10
+triangle 6 8 12 8 12 9
+triangle 14 7 13 10 7 1
+triangle 2 0 11 11 4 2
+triangle 3 4 0 11 13 1
+triangle 14 3 1 3 9 9
+triangle 13 10 14 5 12 9
+triangle 8 6 2 3 14 10
+triangle 8 12 6 5 0 10
+triangle 8 10 11 14 3 0
+triangle 8 5 10 13 0 9
+triangle 5 8 9 0 0 5
+triangle 1 0 0 7 13 13
+triangle 8 7 14 4 9 2
+triangle 9 9 11 12 11 14
+triangle 7 4 9 6 8 3
+triangle 14 9 6 4 10 11
+triangle 0 6 2 4 9 3
+triangle 14 0 8 7 5 12
+triangle 13 8 5 3 13 8
+triangle 6 10 2 3 11 1
+triangle 6 3 8 4 5 9
+triangle 9 10 5 4 0 10
+triangle 10 13 12 8 1 11
+triangle 1 11 8 12 10 11
+triangle 13 6 12 2 5 12
+triangle 14 0 7 8 7 5
+triangle 13 0 6 3 2 3
+triangle 5 9 5 6 10 5
+triangle 9 9 13 3 13 1
+triangle 1 10 11 5 1 12
+triangle 5 11 12 9 2 0
+triangle 14 5 4 10 3 5
+triangle 11 9 2 12 9 1
+triangle 12 4 9 7 13 14
+triangle 13 2 3 11 14 9
+triangle 0 0 8 6 4 8
+triangle 4 3 14 9 14 7
+triangle 11 5 4 11 1 5
+triangle 4 2 2 8 4 2
+triangle 4 13 0 5 14 11
+triangle 12 0 10 3 13 5
+triangle 2 14 7 7 5 8
+triangle 10 13 1 4 11 2
+triangle 8 5 0 13 11 11
+triangle 14 9 12 10 14 13
+triangle 7 1 6 1 8 13
+triangle 14 12 9 5 13 7
+triangle 0 14 12 13 7 13
+triangle 8 12 6 0 2 12
+triangle 7 0 9 0 10 5
+triangle 3 0 5 12 14 2
+triangle 12 1 6 7 5 11
+triangle 2 0 0 9 2 2
+triangle 6 2 9 6 1 3
+triangle 10 10 0 6 7 2
+triangle 11 3 13 4 9 12
+triangle 4 2 2 5 13 11
+triangle 12 2 12 4 7 9
+triangle 5 6 0 11 7 0
+triangle 3 1 4 6 2 0
+triangle 7 4 0 8 11 7
+triangle 6 4 4 10 10 14
+triangle 11 1 5 12 10 9
+triangle 5 3 13 6 11 12
+triangle 14 12 5 4 1 6
+triangle 6 7 14 8 2 0
+triangle 3 6 0 10 4 1
+triangle 2 8 1 6 2 0
+triangle 6 2 9 0 5 6
+triangle 14 5 9 4 6 4
+triangle 7 7 14 7 7 9
+triangle 11 14 11 6 0 5
+triangle 8 1 13 2 8 9
+triangle 6 9 8 4 13 2
+triangle 14 2 6 9 9 0
+triangle 8 8 0 14 7 2
+triangle 0 11 0 14 10 7
+triangle 14 4 7 9 2 3
+triangle 13 8 4 2 2 2
+triangle 7 3 12 4 1 13
+triangle 13 1 1 11 14 12
+triangle 14 9 14 7 13 12
+triangle 7 14 7 5 13 5
+triangle 8 12 2 8 2 11
+triangle 1 11 0 1 13 10
+triangle 8 0 8 2 2 3
+triangle 3 1 5 5 11 4
+triangle 12 0 10 1 11 9
+triangle 14 7 4 0 8 11
+triangle 12 7 10 0 13 13
+triangle 0 2 7 0 11 5
+triangle 11 11 5 14 4 7
+triangle 2 4 14 7 4 6
+triangle 4 13 13 8 12 5
+triangle 8 14 4 7 14 2
+triangle 11 11 11 0 10 5
+triangle 10 14 7 1 12 4
+triangle 14 4 0 3 14 0
+triangle 6 10 12 13 6 8
+triangle 4 1 11 14 4 4
+triangle 3 3 12 2 14 0
+triangle 9 11 0 6 3 6
+triangle 3 11 3 4 4 5
+triangle 8 0 1 9 3 11
+triangle 10 11 1 1 11 1
+triangle 1 2 12 11 6 11
+triangle 5 3 3 14 14 2
+triangle 1 4 13 4 14 2
+triangle 9 4 14 14 1 4
+triangle 7 3 8 6 12 3
+triangle 11 6 14 4 14 4
+triangle 4 3 1 3 6 13
+triangle 12 12 6 14 8 7
+triangle 4 13 14 12 4 11
+triangle 14 0 12 1 3 0
+triangle 1 3 7 2 8 0
+triangle 3 10 0 10 11 10
+triangle 9 3 14 4 0 6
+triangle 7 1 0 10 6 6
+triangle 4 9 11 2 6 3
+triangle 7 7 5 13 4 13
+triangle 7 12 10 7 7 7
+triangle 5 6 7 13 11 7
+triangle 5 7 8 7 12 12
+triangle 5 14 1 9 13 7
+triangle 2 9 8 13 8 5
+triangle 6 3 12 1 7 12
+triangle 3 0 11 9 2 2
+triangle 12 3 9 9 5 5
+triangle 5 0 3 10 1 12
+triangle 1 10 7 13 14 3
+triangle 3 7 4 10 3 8
+triangle 1 6 9 8 6 9
+triangle 13 5 5 11 4 14
+triangle 13 13 14 13 14 9
+triangle 6 12 14 14 9 11
+triangle 5 3 14 8 13 3
+triangle 2 13 9 5 4 6
+triangle 1 5 13 5 5 0
+triangle 0 14 6 5 11 0
+triangle 9 14 6 0 14 5
+triangle 12 8 14 7 7 1
+triangle 10 11 3 8 13 5
+triangle 5 7 12 6 2 10
+triangle 4 6 7 11 7 8
+triangle 0 3 10 7 6 13
+triangle 12 10 12 10 14 7
+triangle 8 1 4 1 10 5
+triangle 6 8 5 8 0 14
+triangle 0 13 3 4 8 14
+triangle 4 8 9 3 3 9
+triangle 11 14 12 0 14 1
+triangle 8 2 9 5 2 4
+triangle 4 14 5 2 5 2
+triangle 0 2 12 10 5 4
+triangle 5 3 9 1 7 4
+triangle 14 6 2 3 8 13
+triangle 1 10 4 6 10 13
+triangle 11 13 9 2 4 0
+triangle 2 10 2 11 7 2
+triangle 11 10 10 5 9 2
+triangle 5 9 10 5 9 9
+triangle 0 3 9 14 7 6
+triangle 0 3 10 10 1 0
+triangle 0 13 8 11 12 4
+triangle 5 9 10 6 9 12
+triangle 13 7 6 10 6 4
+triangle 8 1 12 5 4 2
+triangle 12 8 2 4 4 8
+triangle 14 1 14 11 3 3
+triangle 14 7 10 11 9 13
+triangle 1 14 13 14 5 8
+triangle 13 13 4 0 3 13
+triangle 10 4 5 2 0 12
+triangle 11 0 13 5 11 14
+triangle 4 2 12 9 2 5
+triangle 7 1 14 14 0 3
+triangle 10 5 3 11 2 0
+triangle 3 0 4 12 6 1
+triangle 10 6 1 2 5 2
+triangle 7 1 2 0 13 2
+triangle 12 0 10 0 4 5
+triangle 12 8 7 10 9 14
+triangle 9 7 6 14 10 7
+triangle 9 11 13 9 5 11
+triangle 13 5 11 1 11 14
+triangle 12 11 9 13 1 3
+triangle 1 0 1 4 2 1
+triangle 10 1 0 11 10 0
+triangle 8 9 11 10 7 4
+triangle 5 11 14 14 12 9
+triangle 11 7 1 0 0 6
+triangle 5 7 2 6 9 7
+triangle 0 12 5 8 8 9
+triangle 9 4 8 11 5 0
+triangle 4 13 6 7 4 8
+triangle 10 3 2 13 4 4
+triangle 1 11 14 9 7 13
+triangle 10 1 9 7 10 12
+triangle 13 3 5 1 4 13
+triangle 12 6 13 10 11 10
+triangle 4 0 8 0 6 2
+triangle 3 11 7 11 10 12
+triangle 10 2 4 12 9 0
+triangle 3 2 11 6 5 10
+triangle 5 2 11 3 9 10
+triangle 10 11 0 13 10 13
+triangle 10 4 2 11 5 10
+triangle 5 7 0 8 13 4
+triangle 11 7 14 14 2 6
+triangle 2 7 7 8 10 3
+triangle 8 10 13 7 0 13
+triangle 13 8 6 14 6 1
+triangle 3 8 7 11 4 10
+triangle 0 0 10 14 3 6
+triangle 11 6 13 7 3 4
+triangle 11 10 3 6 3 0
+triangle 10 5 4 14 11 1
+triangle 11 14 9 13 13 2
+triangle 5 11 7 2 2 14
+triangle 9 12 13 8 10 3
+triangle 0 9 6 9 4 8
+triangle 4 3 4 3 8 4
+triangle 5 12 4 12 8 7
+triangle 1 9 14 0 12 14
+triangle 4 7 1 0 3 14
+triangle 2 8 11 13 6 3
+triangle 12 6 8 10 6 12
+triangle 10 5 8 12 8 7
+triangle 5 14 7 6 6 9
+triangle 7 2 10 2 9 11
+triangle 9 10 5 5 1 11
+triangle 10 10 8 0 10 13
+triangle 7 1 3 4 0 9
+triangle 13 7 3 3 3 5
+triangle 14 13 5 10 9 10
+triangle 4 11 6 14 1 9
+triangle 9 10 9 0 6 3
+triangle 3 3 8 10 13 6
+triangle 11 3 13 6 14 11
+triangle 1 3 14 10 4 5
+triangle 1 0 0 3 0 0
+triangle 13 5 8 12 3 9
+triangle 2 10 8 2 14 0
+triangle 2 3 9 1 10 9
+triangle 11 3 7 8 10 9
+triangle 2 10 14 4 6 0
+triangle 1 4 8 12 13 5
+triangle 4 11 4 12 3 10
+triangle 7 4 14 6 3 10
+triangle 8 9 13 6 0 9
+triangle 11 7 7 14 14 0
+triangle 13 0 7 11 1 7
+triangle 3 6 10 5 14 12
+triangle 3 12 5 0 4 14
+triangle 13 10 8 1 10 2
+triangle 9 8 14 0 4 7
+triangle 10 0 2 14 5 7
+triangle 5 8 7 11 9 4
+triangle 2 13 11 9 9 2
+triangle 5 14 2 1 6 13
+triangle 10 10 4 8 14 4
+triangle 3 3 9 5 3 14
+triangle 12 4 11 3 10 7
+triangle 13 5 7 6 4 6
+triangle 12 6 0 10 4 1
+triangle 11 1 12 1 11 14
+triangle 5 3 8 10 8 12
+triangle 8 10 7 2 2 4
+triangle 8 11 13 1 11 10
+triangle 8 8 14 14 13 3
+triangle 8 0 11 2 7 10
+triangle 5 2 0 4 0 11
+triangle 4 12 2 13 10 4
+triangle 14 11 14 9 3 13
+triangle 9 2 8 11 7 10
+triangle 14 9 8 5 6 12
+triangle 0 3 3 8 3 4
+triangle 8 11 1 4 9 6
+triangle 11 6 6 2 11 6
+triangle 8 0 6 7 11 7
+triangle 7 11 1 6 2 14
+triangle 0 8 1 10 10 2
+triangle 14 4 12 14 8 13
+triangle 13 11 11 3 12 0
+triangle 5 1 0 3 14 12
+triangle 4 4 9 11 11 7
+triangle 2 7 8 14 2 13
+triangle 5 7 12 7 1 14
+triangle 2 10 3 1 0 4
+triangle 4 13 5 9 2 3
+triangle 5 10 8 6 7 2
+triangle 1 14 10 5 3 5
+triangle 4 4 4 10 7 1
+triangle 11 3 0 10 9 1
+triangle 8 2 3 7 12 2
+triangle 6 0 9 0 2 9
+triangle 10 9 5 5 3 7
+triangle 9 0 2 5 3 11
+triangle 2 5 11 12 8 9
+triangle 10 7 12 0 12 6
+triangle 1 5 12 10 0 2
+triangle 10 5 0 9 10 3
+triangle 14 1 7 9 7 1
+triangle 10 2 7 2 14 13
+triangle 2 11 3 13 3 6
+triangle 4 8 0 11 2 13
+triangle 8 0 0 7 11 11
+triangle 7 11 14 1 8 7
+triangle 14 5 3 14 14 5
+triangle 11 14 1 12 1 14
+triangle 7 6 12 5 14 7
+triangle 13 6 9 0 13 14
+triangle 9 9 2 3 3 8
+triangle 6 7 1 14 3 11
+triangle 11 2 2 14 10 9
+triangle 10 0 12 10 14 10
+triangle 13 14 3 13 2 13
+triangle 0 11 0 13 11 9
+triangle 9 0 9 8 3 4
+triangle 2 9 14 5 6 6
+triangle 9 3 2 0 6 10
+triangle 4 5 13 10 11 6
+triangle 0 12 1 1 8 1
+triangle 14 2 12 3 2 3
+triangle 4 6 12 9 11 13
+triangle 2 13 10 13 2 8
+triangle 8 8 3 13 1 9
+triangle 14 7 4 12 14 6
+triangle 11 1 8 13 0 12
+triangle 4 0 8 11 0 9
+triangle 14 12 12 8 0 8
+triangle 14 0 3 0 8 0
+triangle 12 0 5 1 7 4
+triangle 4 14 5 8 9 2
+triangle 9 0 0 1 3 3
+triangle 7 2 13 1 13 9
+triangle 7 11 13 2 10 2
+triangle 6 12 13 8 0 0
+triangle 1 3 0 3 11 8
+triangle 10 11 8 6 5 13
+triangle 11 3 2 11 13 4
+triangle 8 0 7 14 11 5
+triangle 5 5 4 12 6 11
+triangle 5 10 13 0 12 14
+triangle 0 4 14 7 5 7
+triangle 13 12 0 8 0 12
+triangle 1 14 5 8 4 3
+triangle 7 5 1 6 12 7
+triangle 6 6 8 10 4 12
+triangle 9 1 10 3 11 14
+triangle 8 10 3 4 14 13
+triangle 12 12 14 13 12 11
+triangle 0 14 14 7 5 11
+triangle 1 13 12 5 12 12
+triangle 0 7 5 12 5 14
+triangle 5 0 10 11 5 4
+triangle 1 3 11 4 4 2
+triangle 12 8 9 3 4 1
+triangle 9 11 0 10 8 6
+triangle 11 8 13 7 0 10
+donut 16 9 5 9
+donut 7 12 14 11
+donut 5 11 11 19
+donut 12 16 2 14
+donut 9 17 17 11
+donut 11 10 17 19
+donut 0 9 12 13
+donut 0 4 11 16
+donut 9 13 17 19
+donut 15 13 6 20
+donut 2 7 20 15
+donut 17 6 17 13
+donut 2 17 2 3
+donut 14 4 9 12
+donut 16 2 4 7
+donut 10 15 2 9
+donut 16 19 13 5
+donut 14 19 20 2
+donut 6 6 15 4
+donut 18 10 2 7
+donut 1 2 20 7
+donut 11 18 19 1
+donut 8 10 15 13
+donut 15 12 17 14
+donut 19 19 14 7
+donut 3 7 17 18
+donut 16 6 7 15
+donut 3 9 14 5
+donut 12 6 20 6
+donut 2 2 9 18
+donut 2 3 11 8
+donut 14 12 6 15
+donut 11 13 15 8
+donut 4 0 7 5
+donut 10 9 4 13
+donut 14 5 16 11
+donut 12 8 17 19
+donut 13 8 13 8
+donut 19 14 2 3
+donut 9 1 9 18
+donut 0 13 19 1
+donut 18 3 4 12
+donut 19 13 20 20
+donut 7 16 3 18
+donut 9 10 9 3
+donut 14 14 14 9
+donut 11 8 17 6
+donut 3 13 7 2
+donut 19 3 2 7
+donut 14 18 18 10
+donut 0 0 8 13
+donut 8 16 14 15
+donut 2 5 13 20
+donut 6 3 2 16
+donut 2 7 10 10
+donut 4 2 11 10
+donut 11 14 15 6
+donut 1 18 20 1
+donut 18 8 8 16
+donut 19 1 8 4
+donut 14 8 15 16
+donut 7 5 17 10
+donut 13 0 2 8
+donut 12 1 10 19
+donut 11 4 11 1
+donut 7 11 11 19
+donut 12 9 8 20
+donut 18 17 2 11
+donut 1 16 20 13
+donut 16 0 11 20
+donut 4 15 18 7
+donut 19 13 12 3
+donut 4 1 1 1
+donut 7 0 4 9
+donut 16 15 17 5
+donut 4 12 15 4
+donut 18 19 15 17
+donut 14 3 11 3
+donut 1 14 17 11
+donut 11 10 20 7
+donut 7 2 3 5
+donut 18 17 9 13
+donut 8 2 8 8
+donut 6 9 12 18
+donut 8 5 18 17
+donut 0 4 6 18
+donut 15 14 1 3
+donut 1 19 1 16
+donut 3 10 13 9
+donut 11 5 10 19
+donut 13 16 18 12
+donut 10 2 19 14
+donut 2 9 19 11
+donut 9 17 19 3
+donut 13 5 14 7
+donut 9 14 5 19
+donut 17 8 9 18
+donut 16 9 18 2
+donut 15 13 9 10
+donut 5 9 6 13
+donut 6 13 14 13
+donut 18 15 17 16
+donut 8 17 8 8
+donut 8 5 16 7
+donut 14 3 6 1
+donut 11 8 1 15
+donut 5 2 17 11
+donut 11 11 5 19
+donut 9 11 4 18
+donut 16 19 2 3
+donut 2 7 3 20
+donut 15 14 17 19
+donut 7 9 5 13
+donut 11 11 5 20
+donut 8 19 17 8
+donut 6 1 18 7
+donut 16 14 11 9
+donut 3 7 1 19
+donut 8 16 11 19
+donut 13 14 20 9
+donut 7 9 1 5
+donut 17 14 20 3
+donut 11 15 4 3
+donut 4 4 13 5
+donut 12 18 8 7
+donut 12 8 17 10
+donut 0 5 7 14
+donut 13 6 9 18
+donut 4 8 7 10
+donut 1 16 19 5
+donut 4 7 8 8
+donut 0 6 8 9
+donut 2 16 11 11
+donut 1 2 19 12
+donut 17 13 13 10
+donut 4 8 8 9
+donut 1 12 5 5
+donut 3 10 17 1
+donut 0 18 5 15
+donut 1 15 19 2
+donut 6 7 2 1
+donut 15 6 11 3
+donut 5 9 19 18
+donut 17 15 17 17
+donut 10 11 12 14
+donut 4 12 6 19
+donut 15 13 8 10
+donut 18 6 3 4
+donut 6 13 19 5
+donut 2 8 16 11
+donut 3 1 8 3
+donut 1 18 6 17
+donut 10 3 7 6
+donut 2 10 8 16
+donut 12 19 17 19
+donut 16 6 16 18
+donut 5 7 17 5
+donut 1 4 9 13
+donut 4 1 15 11
+donut 6 0 18 13
+donut 12 11 14 4
+donut 12 0 20 6
+donut 6 2 17 6
+donut 5 4 7 20
+donut 6 10 3 15
+donut 11 5 13 9
+donut 1 1 13 20
+donut 15 11 14 14
+donut 12 7 13 11
+donut 7 15 16 19
+donut 14 3 20 4
+donut 9 19 2 20
+donut 9 16 5 1
+donut 7 4 10 14
+donut 10 7 16 11
+donut 15 7 14 10
+donut 18 18 3 14
+donut 16 14 12 17
+donut 10 10 17 14
+donut 5 11 18 17
+donut 14 6 3 12
+donut 14 12 10 1
+donut 11 12 13 10
+donut 0 13 20 18
+donut 5 13 4 17
+donut 6 6 1 10
+donut 11 2 7 5
+donut 14 0 20 20
+donut 2 15 20 8
+donut 4 4 19 7
+donut 7 4 14 11
+donut 8 2 13 17
+donut 16 18 7 5
+donut 18 10 14 19
+donut 9 16 16 12
+donut 16 14 9 10
+donut 9 6 7 3
+donut 15 13 5 8
+donut 6 12 19 9
+donut 1 14 16 14
+donut 5 5 2 7
+donut 7 16 8 3
+donut 15 17 15 20
+donut 12 11 3 7
+donut 17 13 8 13
+donut 15 5 18 2
+donut 13 15 16 7
+donut 0 0 4 5
+donut 15 15 17 19
+donut 4 5 13 13
+donut 13 16 13 8
+donut 4 5 11 5
+donut 17 9 4 8
+donut 8 11 12 7
+donut 10 11 15 3
+donut 2 1 6 4
+donut 5 1 19 4
+donut 5 13 5 17
+donut 13 16 13 11
+donut 17 7 19 9
+donut 16 8 9 2
+donut 4 10 3 10
+donut 18 9 10 17
+donut 9 11 7 6
+donut 0 2 18 16
+donut 7 13 12 17
+donut 19 17 4 3
+donut 6 12 12 9
+donut 7 3 20 14
+donut 0 13 20 16
+donut 4 12 16 9
+donut 2 18 5 5
+donut 5 1 3 14
+donut 19 3 18 1
+donut 3 9 2 19
+donut 16 16 3 13
+donut 3 15 2 14
+donut 18 1 16 13
+donut 14 5 3 3
+donut 3 2 17 15
+donut 9 19 14 5
+donut 6 7 18 1
+donut 5 0 16 15
+donut 5 6 19 16
+donut 3 14 6 8
+donut 0 6 15 1
+donut 10 17 3 13
+donut 9 10 15 18
+donut 18 19 17 10
+donut 5 0 19 10
+donut 4 7 8 19
+donut 14 13 12 15
+donut 11 13 13 16
+donut 1 14 16 1
+donut 11 0 6 13
+donut 3 2 17 3
+donut 5 0 17 19
+donut 6 6 3 14
+donut 16 9 10 1
+donut 9 7 5 17
+donut 11 9 13 11
+donut 9 18 13 9
+donut 7 6 19 9
+donut 2 7 13 17
+donut 13 11 15 3
+donut 0 17 2 12
+donut 7 7 6 8
+donut 13 14 12 9
+donut 16 7 5 19
+donut 5 18 15 16
+donut 11 5 16 1
+donut 3 14 18 7
+donut 5 12 3 20
+donut 0 0 17 4
+donut 4 2 11 8
+donut 4 3 10 6
+donut 5 19 4 10
+donut 10 17 13 13
+donut 14 7 9 4
+donut 3 11 17 12
+donut 4 18 11 1
+donut 3 10 10 15
+donut 7 18 11 7
+donut 3 5 15 9
+donut 2 14 8 16
+donut 12 5 13 9
+donut 5 14 18 4
+donut 15 2 20 16
+donut 1 14 12 4
+donut 14 12 1 7
+donut 4 11 14 19
+donut 10 0 7 12
+donut 1 19 10 16
+donut 1 7 1 6
+donut 8 2 8 14
+donut 3 10 20 18
+donut 5 2 12 20
+donut 14 15 4 13
+donut 3 4 2 5
+donut 1 2 1 6
+donut 7 19 11 19
+donut 8 16 11 1
+donut 12 14 15 4
+donut 10 8 5 9
+donut 1 3 7 1
+donut 1 11 6 7
+donut 9 1 11 12
+donut 19 0 3 16
+donut 16 17 16 7
+donut 3 18 12 20
+donut 15 8 15 7
+donut 0 7 12 6
+donut 5 14 19 13
+donut 19 5 6 12
+donut 4 3 15 18
+donut 4 15 14 6
+donut 7 0 20 11
+donut 10 2 14 14
+donut 14 12 10 10
+donut 17 14 2 4
+donut 6 14 17 13
+donut 0 0 3 1
+donut 9 17 8 16
+donut 9 19 18 7
+donut 3 2 18 16
+donut 12 16 14 8
+donut 13 19 8 10
+donut 12 19 11 18
+donut 2 14 5 18
+donut 12 7 17 10
+donut 14 14 7 6
+donut 12 4 10 14
+donut 17 14 8 10
+donut 14 11 16 5
+donut 2 12 14 10
+donut 4 9 11 20
+donut 1 9 14 2
+donut 15 19 7 6
+donut 11 6 20 2
+donut 12 11 1 9
+donut 6 9 13 7
+donut 7 7 13 7
+donut 12 15 15 8
+donut 1 7 2 2
+donut 1 13 18 15
+donut 7 4 16 8
+donut 2 2 2 11
+donut 14 2 9 7
+donut 2 8 19 4
+donut 19 4 5 1
+donut 9 14 3 13
+donut 0 16 10 12
+donut 9 8 5 6
+donut 3 9 15 8
+donut 0 3 4 13
+donut 9 16 7 15
+donut 3 3 16 8
+donut 0 17 10 1
+donut 10 17 1 15
+donut 8 14 11 2
+donut 12 17 2 10
+donut 17 1 4 10
+donut 0 2 5 11
+donut 15 11 3 1
+donut 18 15 4 10
+donut 12 18 2 17
+donut 2 0 10 12
+donut 8 6 14 10
+donut 0 3 9 2
+donut 10 9 6 6
+donut 3 11 9 12
+donut 17 13 4 16
+donut 13 0 11 7
+donut 14 18 8 8
+donut 15 8 13 10
+donut 6 3 16 15
+donut 3 12 16 18
+donut 18 18 7 9
+donut 17 10 2 4
+donut 5 10 19 8
+donut 9 9 12 14
+donut 5 17 12 4
+donut 8 5 12 7
+donut 14 3 16 7
+donut 14 1 13 15
+donut 0 0 7 20
+donut 7 6 8 16
+donut 2 7 17 19
+donut 7 6 2 2
+donut 9 13 1 19
+donut 0 8 13 9
+donut 14 1 20 15
+donut 18 12 17 7
+donut 3 17 11 15
+donut 5 13 5 7
+donut 7 15 15 8
+donut 13 1 13 14
+donut 7 3 2 10
+donut 18 7 15 5
+donut 13 1 7 3
+donut 4 7 9 2
+donut 11 2 15 1
+donut 11 17 2 16
+donut 5 2 18 17
+donut 1 9 6 18
+donut 14 2 7 20
+donut 9 5 20 2
+donut 18 2 14 1
+donut 15 3 3 14
+donut 8 5 8 10
+donut 17 0 12 15
+donut 18 10 16 17
+donut 18 0 15 14
+donut 19 8 11 19
+donut 15 18 19 11
+donut 3 10 1 7
+donut 14 10 16 14
+donut 2 16 10 12
+donut 13 6 20 12
+donut 0 13 8 13
+donut 14 7 14 9
+donut 9 7 11 13
+donut 9 17 13 6
+donut 13 6 6 15
+donut 15 16 19 12
+donut 10 8 16 5
+donut 14 7 17 14
+donut 18 17 4 10
+donut 3 5 10 17
+donut 19 8 15 17
+donut 11 18 10 3
+donut 6 4 16 18
+donut 5 11 16 7
+donut 6 16 13 6
+donut 7 1 3 15
+donut 18 3 13 16
+donut 4 6 13 16
+donut 11 5 6 7
+donut 16 19 2 12
+donut 9 19 13 14
+donut 2 4 12 17
+donut 15 9 4 4
+donut 8 19 5 7
+donut 16 5 11 11
+donut 1 15 9 13
+donut 1 18 4 8
+donut 13 9 15 2
+donut 5 5 4 5
+donut 5 19 7 11
+donut 2 17 20 9
+donut 13 13 5 15
+donut 15 1 1 8
+donut 9 3 20 5
+donut 14 4 18 1
+donut 12 3 12 12
+donut 14 8 19 1
+donut 16 11 18 18
+donut 14 3 5 20
+donut 11 4 10 15
+donut 0 14 13 9
+donut 18 16 4 12
+donut 12 7 15 9
+donut 16 19 4 6
+donut 17 7 17 8
+donut 1 2 16 13
+donut 4 16 4 11
+donut 1 7 2 12
+donut 2 13 4 18
+donut 2 16 8 3
+donut 13 2 13 14
+donut 11 14 13 18
+donut 4 16 11 18
+donut 12 19 1 4
+donut 9 16 2 1
+donut 4 10 8 13
+donut 6 10 16 20
+donut 4 12 18 11
+donut 10 4 16 3
+donut 12 3 10 16
+donut 19 14 3 3
+donut 5 5 10 12
+donut 0 8 11 16
+donut 13 3 15 6
+donut 8 15 3 6
+donut 8 12 15 15
+donut 14 3 7 14
+donut 17 3 6 18
+donut 6 11 3 2
+donut 4 16 9 6
+donut 4 6 4 19
+donut 19 11 14 16
+donut 9 5 20 4
+donut 6 16 20 16
+donut 10 19 20 12
+donut 11 19 9 9
+donut 19 18 6 15
+donut 14 10 3 7
+donut 5 17 1 15
+donut 4 15 2 3
+donut 9 8 20 18
