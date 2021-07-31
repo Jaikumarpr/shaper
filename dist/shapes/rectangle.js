@@ -10,15 +10,15 @@ class Rectangle extends shape_1.default {
         super(id, 'rectangle', ...args);
     }
     surfaceArea() {
-        // square surface area L^2
+        // reactangle surface area l * w;
         return this.args[2] * this.args[3];
     }
     toString() {
         return `reactange with left bottom corner: (${this.args[0]}, ${this.args[1]}), length:${this.args[2]}, width:${this.args[3]}`;
     }
     hasPoint(x, y) {
-        if (x > this.args[0] && x < (this.args[0] + this.args[2])) {
-            if (y > this.args[1] && y < (this.args[1] + this.args[3])) {
+        if ((x > this.args[0]) && (x < (this.args[0] + this.args[2]))) {
+            if ((y > this.args[1]) && (y < (this.args[1] + this.args[3]))) {
                 return true;
             }
         }

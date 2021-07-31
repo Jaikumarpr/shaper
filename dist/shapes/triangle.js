@@ -11,7 +11,6 @@ class Triangle extends shape_1.default {
         super(id, 'triangle', ...args);
     }
     surfaceArea() {
-        // square surface area L^2
         return 0.5 * ((this.args[0] * (this.args[3] - this.args[5])) +
             (this.args[2] * (this.args[5] - this.args[1])) + (this.args[4] * (this.args[1] - this.args[3])));
     }

@@ -53,7 +53,7 @@ exports.shapeValidatorFactory = shapeValidatorFactory;
 const buildShapeArgs = (shape, args) => {
     const shArgs = common_1.shapeArgs.get(shape) || [];
     if ((shArgs === null || shArgs === void 0 ? void 0 : shArgs.length) !== args.length) {
-        console.error('argument error: internal');
+        console.error('invalid no of arguments');
     }
     let argObj = {};
     for (let i = 0; i < args.length; i++) {
@@ -65,36 +65,6 @@ const buildShapeArgs = (shape, args) => {
     return argObj;
 };
 exports.buildShapeArgs = buildShapeArgs;
-// export const circleSchema = joi.object({
-//     x: numberValidator,
-//     y: numberValidator,
-//     r: numberValidator.positive(),
-// });
-// export const squareSchema = joi.object({
-//     x: numberValidator,
-//     y: numberValidator,
-//     l: numberValidator.positive(),
-// });
-// export const rectangleSchema = joi.object({
-//     x: numberValidator,
-//     y: numberValidator,
-//     l: numberValidator.positive(),
-//     w: numberValidator.positive(),
-// });
-// export const donutSchema = joi.object({
-//     x: numberValidator,
-//     y: numberValidator,
-//     ri: numberValidator.positive(),
-//     ro: numberValidator.positive(),
-// });
-// export const triangleSchema = joi.object({
-//     x1: numberValidator,
-//     y1: numberValidator,
-//     x2: numberValidator,
-//     y2: numberValidator,
-//     x3: numberValidator,
-//     y3: numberValidator,
-// });
 exports.pointSchema = joi_1.default.object({
     x: exports.numberValidator,
     y: exports.numberValidator,
@@ -112,6 +82,6 @@ const validateNumber = (val, dummyVal) => {
 };
 exports.validateNumber = validateNumber;
 const isValidShapeCmd = (cmd) => {
-    return Boolean(common_1.shapes.indexOf(cmd));
+    return Boolean(common_1.shapes.indexOf(cmd) + 1);
 };
 exports.isValidShapeCmd = isValidShapeCmd;

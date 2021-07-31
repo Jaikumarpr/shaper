@@ -17,7 +17,7 @@ exports.rl.on('SIGINT', () => {
     });
 });
 exports.rl.on('close', () => {
-    console.log('program exited');
+    console.log('\nShaper program exited, Goodbye!!');
     process.exit(0);
 });
 exports.default = (cb) => {

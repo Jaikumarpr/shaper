@@ -1,4 +1,23 @@
 "use strict";
+var __createBinding = (this && this.__createBinding) || (Object.create ? (function(o, m, k, k2) {
+    if (k2 === undefined) k2 = k;
+    Object.defineProperty(o, k2, { enumerable: true, get: function() { return m[k]; } });
+}) : (function(o, m, k, k2) {
+    if (k2 === undefined) k2 = k;
+    o[k2] = m[k];
+}));
+var __setModuleDefault = (this && this.__setModuleDefault) || (Object.create ? (function(o, v) {
+    Object.defineProperty(o, "default", { enumerable: true, value: v });
+}) : function(o, v) {
+    o["default"] = v;
+});
+var __importStar = (this && this.__importStar) || function (mod) {
+    if (mod && mod.__esModule) return mod;
+    var result = {};
+    if (mod != null) for (var k in mod) if (k !== "default" && Object.prototype.hasOwnProperty.call(mod, k)) __createBinding(result, mod, k);
+    __setModuleDefault(result, mod);
+    return result;
+};
 var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
@@ -6,7 +25,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /* eslint-disable no-empty-function */
 /* eslint-disable no-useless-constructor */
 const parser_1 = __importDefault(require("./helpers/parser"));
-const readLine_1 = __importDefault(require("./helpers/readLine"));
+const readLine_1 = __importStar(require("./helpers/readLine"));
 const common_1 = require("./helpers/common");
 const shapeFactory_1 = __importDefault(require("./helpers/shapeFactory"));
 const shapeStore_1 = __importDefault(require("./helpers/shapeStore"));
@@ -27,16 +46,19 @@ App.prototype.init = function () {
         this.addShape(data);
     });
     parser_1.default.on('find_point', (data) => {
-        console.log(`searching for rects with point ${data.x} ${data.y}`);
+        console.log(`searching for shapes with point ${data.x} ${data.y}`);
         this.search('point', data.x, data.y);
     });
     parser_1.default.on('find_shape', (data) => {
-        console.log(`searching for rects with shape ${data.name}`);
-        this.search('shape', data);
+        console.log(`searching for shapes which overlaps with shape... ${data.name}`);
+        this.search('shape', data.name, data.args);
     });
     parser_1.default.on('file', (data) => {
         console.log(`file  ${data.file}`);
         this.bulkInsert(data.file);
+    });
+    parser_1.default.on('exit', () => {
+        readLine_1.rl.emit('SIGINT');
     });
     readLine_1.default((argStr) => {
         let argv = common_1.toCliArgs(argStr);
@@ -68,10 +90,10 @@ App.prototype.search = function (cmd, ...args) {
         console.log(`Total Surface Area for point (${args[0]}, ${args[1]}): ${totalArea}`);
     }
     if (cmd === "shape") {
-        const shape = shapeFactory_1.default(args[0].name, 0, Object.values(args[0].val));
+        const shape = shapeFactory_1.default(args[0], 0, ...Object.values(args[1]));
         const mbr = shape.getMBR();
         shapeStore.getIntersectingRectsShape(mbr).forEach((curVal) => {
-            console.log(`${curVal.obj.id}: ${curVal.obj.name} with surface area ${curVal.obj.surfaceArea()} overlaps with shape`);
+            console.log(`${curVal.obj.id}: ${curVal.obj.name} with surface area ${curVal.obj.surfaceArea()} overlaps with shape ${args[0]}`);
         });
     }
 };
@@ -92,14 +114,6 @@ App.prototype.bulkInsert = (file) => {
             //  add to store
             shapeStore.addShape(shapeObj);
         });
-        // let writeStream = new TreeWriter({ store: shapeStore, idgen: idgen });
-        // writeStream.on('error', (error) => {
-        //   console.log(`${chalk.redBright(error.message)}`)
-        // });
-        // writeStream.on('close', () => {
-        //   console.log('file loaded');
-        // })
-        // readStream.pipe(writeStream);
     }
 };
 const app = new App();

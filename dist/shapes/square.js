@@ -17,8 +17,8 @@ class Square extends shape_1.default {
         return `square with left bottom corner (${this.args[0]}, ${this.args[1]}) and side Length ${this.args[2]}`;
     }
     hasPoint(x, y) {
-        if (x > this.args[0] && x < (this.args[0] + this.args[2])) {
-            if (y > this.args[1] && y < (this.args[1] + this.args[2])) {
+        if ((x > this.args[0]) && (x < (this.args[0] + this.args[2]))) {
+            if ((y > this.args[1]) && (y < (this.args[1] + this.args[2]))) {
                 return true;
             }
         }

@@ -83,5 +83,6 @@ insert shape from file
 - example load /users/downloads/testFile.txt
 
 ## Help
+
 - type 'help' to see more information about commands
 - type 'help command' to see command specific information
