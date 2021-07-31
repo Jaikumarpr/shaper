@@ -7,7 +7,7 @@ export class Rectangle extends Shape {
     }
 
     surfaceArea(): number {
-        // square surface area L^2
+        // reactangle surface area l * w;
         return this.args[2] * this.args[3];
     }
 
@@ -17,8 +17,8 @@ export class Rectangle extends Shape {
 
     hasPoint(x: number, y: number): boolean {
 
-        if (x > this.args[0] && x < (this.args[0] + this.args[2])) {
-            if (y > this.args[1] && y < (this.args[1] + this.args[3])) {
+        if ((x > this.args[0]) && (x < (this.args[0] + this.args[2]))) {
+            if ((y > this.args[1]) && (y < (this.args[1] + this.args[3]))) {
                 return true;
             }
         }

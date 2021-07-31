@@ -1,13 +1,13 @@
 /* eslint-disable no-empty-function */
 /* eslint-disable no-useless-constructor */
 import cmdParser from './helpers/parser';
-import initPrompt from './helpers/readLine';
+import initPrompt, { rl } from './helpers/readLine';
 import { toCliArgs, idGenerator } from './helpers/common';
 import shapeFactory from './helpers/shapeFactory';
 import { point, shape } from 'types/common';
 import ShapeStore from './helpers/shapeStore';
 import isValidPath from 'is-valid-path';
-import fs, { write, WriteStream } from 'fs';
+import fs from 'fs';
 import chalk from 'chalk';
 import lineReader from 'line-reader';
 import { buildShapeArgs, shapeValidatorFactory } from './helpers/validators';
@@ -34,14 +34,14 @@ App.prototype.init = function () {
   });
 
   cmdParser.on('find_point', (data: point) => {
-    console.log(`searching for rects with point ${data.x} ${data.y}`);
+    console.log(`searching for shapes with point ${data.x} ${data.y}\n`);
     this.search('point', data.x, data.y);
 
   });
 
   cmdParser.on('find_shape', (data: any) => {
-    console.log(`searching for rects with shape ${data.name}`);
-    this.search('shape', data);
+    console.log(`searching for shapes which overlaps with shape... ${data.name}\n`);
+    this.search('shape', data.name, data.args);
 
   });
 
@@ -49,6 +49,10 @@ App.prototype.init = function () {
     console.log(`file  ${data.file}`);
     this.bulkInsert(data.file);
   });
+
+  cmdParser.on('exit', () => {
+    rl.emit('SIGINT');
+  })
 
   initPrompt((argStr: string) => {
 
@@ -61,7 +65,6 @@ App.prototype.init = function () {
     }
   })
 };
-
 
 App.prototype.addShape = function (data: shape) {
   // generate id
@@ -89,11 +92,10 @@ App.prototype.search = function (cmd: string, ...args: any) {
   }
 
   if (cmd === "shape") {
-    const shape = shapeFactory(args[0].name, 0, Object.values(args[0].val));
+    const shape = shapeFactory(args[0], 0, ...Object.values(args[1]));
     const mbr = shape.getMBR();
-
     shapeStore.getIntersectingRectsShape(mbr).forEach((curVal) => {
-      console.log(`${curVal.obj.id}: ${curVal.obj.name} with surface area ${curVal.obj.surfaceArea()} overlaps with shape`);
+      console.log(`${curVal.obj.id}: ${curVal.obj.name} with surface area ${curVal.obj.surfaceArea()} overlaps with shape ${args[0]}`);
     })
   }
 }
@@ -122,18 +124,6 @@ App.prototype.bulkInsert = (file) => {
       //  add to store
       shapeStore.addShape(shapeObj);
     });
-
-
-    // let writeStream = new TreeWriter({ store: shapeStore, idgen: idgen });
-
-    // writeStream.on('error', (error) => {
-    //   console.log(`${chalk.redBright(error.message)}`)
-    // });
-
-    // writeStream.on('close', () => {
-    //   console.log('file loaded');
-    // })
-    // readStream.pipe(writeStream);
   }
 }
 

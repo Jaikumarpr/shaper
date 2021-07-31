@@ -2,6 +2,8 @@ import { EventEmitter } from 'events';
 import { Command } from 'commander';
 import chalk from 'chalk';
 import { shapeValidatorFactory, pointSchema, fpSchema, isValidShapeCmd, buildShapeArgs } from './validators';
+import { option } from 'yargs';
+import fs from 'fs';
 
 
 class Parser extends EventEmitter {
@@ -134,13 +136,39 @@ class Parser extends EventEmitter {
             });
 
         this.program
+            .command('search')
+            .description('Add donut shape to collection')
+            .argument('<x>', ' x coordinate of center of circle')
+            .argument('<y>', ' y coordinate of center of circle')
+            .action((...args) => {
+
+                const argsObj = { x: args[0], y: args[1] };
+
+                const { error, value } = pointSchema.validate(argsObj);
+
+                if (error) {
+                    console.log(`${chalk.redBright(error.name)}: ${chalk.yellowBright(error.message)}`);
+                    return;
+                }
+
+                this.emit('find_point', value);
+            });
+
+        this.program
+            .command('exit')
+            .description('exit program')
+            .action((...args) => {
+                this.emit('exit');
+            });
+
+        this.program
             .command('find')
             .description(`search for intersecting shapes:`)
             .option('-p, --point <point...>', 'find shapes containing point: usage: find -p 2 3')
-            .option('-s, --shape <shape>', 'find shapes overlaping a given shape, usage: find -s "circle 2 3 4"')
+            .option('-s, --shape <shape...>', 'find shapes overlaping a given shape, usage: find -s "circle 2 3 4"')
             .action((options) => {
-
-                if (options.point !== undefined) {
+                console.log(options);
+                if ((options.point !== undefined) && (options.point.length > 0)) {
                     const argsObj = { x: options.point[0], y: options.point[1] };
                     const { error, value } = pointSchema.validate(argsObj);
 
@@ -151,9 +179,10 @@ class Parser extends EventEmitter {
                     this.emit('find_point', value);
                 }
 
-                if (options.shape !== undefined) {
-                    const shape: string[] = options.shape.trim().split(' ');
-                    const cmd = shape.shift();
+                if (options.shape !== undefined && (options.shape.length > 0)) {
+
+                    const cmd = options.shape.shift();
+                    const shape = [...options.shape];
 
                     if (!isValidShapeCmd(cmd)) {
                         console.error(`${cmd} is not a valid command`);
@@ -165,9 +194,13 @@ class Parser extends EventEmitter {
                         console.log(`${chalk.redBright(error.name)}: ${chalk.yellowBright(error.message)}`);
                         return;
                     }
-
-                    this.emit('find_shape', { name: cmd, val: value });
+                    this.emit('find_shape', { name: cmd, args: value });
                 }
+
+                // reset the options ; options = {} does not work inside action handler
+                Object.keys(options).forEach((e) => {
+                    delete options[e];
+                })
             });
 
         this.program

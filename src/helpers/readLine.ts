@@ -13,7 +13,7 @@ rl.on('SIGINT', () => {
 });
 
 rl.on('close', () => {
-    console.log('program exited');
+    console.log('\nShaper program exited, Goodbye!!');
     process.exit(0);
 });
 
